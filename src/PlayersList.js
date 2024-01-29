@@ -4,6 +4,7 @@ import Allplayers from "./Allplayers";
 
 function PlayersList() {
     return (
+        // fuction maps
         <div>
             <h1>Football Players</h1>
             <div style={{ display: 'flex', justifyContent: 'inline' }}>

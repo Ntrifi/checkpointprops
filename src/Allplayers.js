@@ -1,4 +1,5 @@
 const Allplayers = [
+    // all players 
     {
         name: "Khaled Kachmiri",
         team: "Tunisia",
